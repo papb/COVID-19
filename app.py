@@ -194,4 +194,4 @@ if __name__ == '__main__':
         >Também podem ser ajustados limites superior e inferior dos parâmetros *Período infeccioso*, *Tempo de incubação* e *Número básico de reprodução*. Estes limites definem um intervalo de confiança de 95% de uma distribuição log-normal para cada parâmetro.\n\n\n
         ''')
     st.markdown('---')
-    st.markdown('###### Os dados dos casos confirmados foram coletados em [Número de casos confirmados de COVID-19 no Brasil](https://raw.githubusercontent.com/wcota/covid19br/master/cases-brazil-cities-time.csv) e os populacionais, obtidos do IBGE (endereço: ftp://ftp.ibge.gov.br/Estimativas_de_Populacao/Estimativas_2019/estimativa_dou_2019.xls)')
+    st.markdown('###### Os dados dos casos confirmados foram coletados em [Número de casos confirmados de COVID-19 no Brasil](https://raw.githubusercontent.com/wcota/covid19br/master/cases-brazil-cities-time.csv) e os populacionais, obtidos do [IBGE](ftp://ftp.ibge.gov.br/Estimativas_de_Populacao/Estimativas_2019/estimativa_dou_2019.xls)')
